@@ -1,0 +1,36 @@
+@media (max-width: 1200px){
+
+    .header-menu ul li{
+
+        font-size: 12px;
+    }
+}
+
+
+@media (max-width: 900px){
+
+
+    .header-action button {
+
+        width: 117px;
+        height: 35px;
+        font-size: 10px;
+    }
+
+    .header-menu{
+        width: 400px;
+    }
+}
+
+@media (max-width: 728px){
+    .header-menu{
+        display: none;
+    }
+
+    .responsive-menu{
+        display: block;
+        font-weight: bold;
+        font-size: 22px;
+    }
+
+}
